@@ -1,0 +1,11 @@
+.color-default{
+	color:white;
+}
+.extension {
+	height: 50px;
+}
+
+#content-group {
+	background: rgba(0,0,0,0.5);
+	border-radius: 10px;
+}
